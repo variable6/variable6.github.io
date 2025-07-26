@@ -5,3 +5,8 @@ With over 3 years of professional experience, I've led engineering teams, archit
 I enjoy solving complex technical challenges and am constantly exploring new tools and frameworks to stay ahead in the ever-evolving tech world. Whether it's designing APIs, implementing responsive UI, or scaling backend services — I aim to build products that are both efficient and user-focused.
 When I'm not coding, I love sharing knowledge, contributing to side projects, and exploring the latest in developer tooling and architecture.
 Let's build something amazing together!
+
+<script>
+  // Redirect to a new URL
+window.location.href = 'https://pranay.vercel.app';
+</script>
